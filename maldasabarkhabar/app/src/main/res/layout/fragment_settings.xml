@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SettingsFragment">
+
+
+    <Button
+        android:id="@+id/supportButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="Support"
+        android:onClick="onSupportButtonClick"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/aboutUsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="About Us"
+        android:onClick="onAboutUsButtonClick"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/interstitialButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:text="মজাদার জিনিস দেখুন"
+        android:textStyle="bold"
+        android:onClick="onInterstitialButtonClick"
+        tools:ignore="UsingOnClickInXml" />
+
+    <LinearLayout
+        android:id="@+id/bannerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" />
+
+</LinearLayout>

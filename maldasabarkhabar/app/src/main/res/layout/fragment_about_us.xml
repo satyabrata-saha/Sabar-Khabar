@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10sp"
+    tools:context=".AboutUsFragment">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:ignore="UselessParent">
+
+        <EditText
+            android:id="@+id/editTextTextPersonName3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints="Sabar Kahabr"
+            android:textSize="20sp"
+            android:ems="20"
+            android:textStyle="bold"
+            android:inputType="textPersonName"
+            android:text="@string/what_is_sabar_khabar"
+            tools:ignore="LabelFor" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="@string/sabar_khabar_is_a_malda_district_news_channel" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints="Sabar Cable"
+            android:textSize="20sp"
+            android:ems="20"
+            android:textStyle="bold"
+            android:inputType="textPersonName"
+            android:text="@string/what_is_sabar_cable"
+            tools:ignore="LabelFor" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="@string/sabar_cable_is_most_populer_malda_local_channel" />
+        <EditText
+            android:id="@+id/editTextTextPersonName5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints="Sabar Cable"
+            android:textSize="20sp"
+            android:ems="20"
+            android:textStyle="bold"
+            android:inputType="textPersonName"
+            android:text="@string/what_is_sabar_sangeet"
+            tools:ignore="LabelFor" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="@string/local_malda_district_entertainment_channel" />
+        <EditText
+            android:id="@+id/editTextTextPersonName6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints="Sabar Cable"
+            android:textSize="20sp"
+            android:ems="20"
+            android:textStyle="bold"
+            android:inputType="textPersonName"
+            android:text="@string/advertisement"
+            tools:ignore="LabelFor" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="@string/for_any_type_of_advertisement_contact_at_kanak_dev_91_9733225000_ranjit_rajak_91_9609488701" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="@string/contact_at_kanak_dev_91_9733225000_ranjit_rajak_91_9609488701" />
+
+    </LinearLayout>
+
+</FrameLayout>

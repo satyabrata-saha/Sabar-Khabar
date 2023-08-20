@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Malda Sabar khabar</string>
+
+    <!-- About Us strings -->
+    <string name="what_is_sabar_khabar">What is Sabar Khabar?/সবার খবর কি?</string>
+    <string name="sabar_khabar_is_a_malda_district_news_channel">Sabar Khabar is a Malda District news channel. সবার খবর হছে মালদা জেলার একটি খবরের চ্যানেল।</string>
+    <string name="what_is_sabar_cable">What is Sabar Cable?/সাবার কেবল কি?</string>
+    <string name="sabar_cable_is_most_populer_malda_local_channel">Sabar Cable is most popular Malda Local Channel.</string>
+    <string name="what_is_sabar_sangeet">What is Sabar Sangeet?/সাবার সাঙ্গিত কি?</string>
+    <string name="local_malda_district_entertainment_channel">Local Malda District Entertainment Channel.</string>
+    <string name="advertisement">Advertisement</string>
+    <string name="for_any_type_of_advertisement_contact_at_kanak_dev_91_9733225000_ranjit_rajak_91_9609488701">for any type of advertisement</string>
+    <string name="contact_at_kanak_dev_91_9733225000_ranjit_rajak_91_9609488701">contact-
+        Kanak Dev: +91 9733225000,
+        Ranjit Rajak: +91 9609488701</string>
+
+    <!-- Support -->
+    <string name="developer">Developer</string>
+    <string name="hi_this_is_developer_for_any_kind_of_app_related_issue_please">Hi this is developer, for any kind of App related issue contact at 👇</string>
+    <string name="mail_me_hello_satyabrata_saha_gmail_com">Mail-
+        hello.satyabrata.saha@gmail.com</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
